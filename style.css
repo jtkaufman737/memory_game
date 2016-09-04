@@ -1,0 +1,32 @@
+html{
+  font-family: 'Raleway',sans-serif;
+  font-weight:lighter;
+}
+
+div#memory_board{
+	background:#ccccff;
+	width:800px;
+	height:540px;
+	padding:24px;
+	margin:0px auto;
+}
+
+div#memory_board > div{
+	background: url(tile_bg.jpg) no-repeat;
+	width:71px;
+	height:71px;
+  border-radius:4%;
+	float:left;
+	margin:10px;
+	padding:20px;
+	font-size:64px;
+	cursor:pointer;
+	text-align:center;
+  color:#000066;
+}
+
+div#title{
+  font-family: 'Raleway',sans-serif;
+  color:#000066;
+  font-size:60px;
+}
