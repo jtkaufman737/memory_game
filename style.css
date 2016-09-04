@@ -1,4 +1,5 @@
 html{
+<<<<<<< HEAD
   font-family:'Baloo Tamma', cursive;
   font-weight:lighter;
 }
@@ -7,6 +8,20 @@ div#memory_board{
 	background:#ccccff;
 	width:800px;
 	height:540px;
+=======
+  font-family:font-family: 'Baloo Tamma', cursive;
+  font-weight:lighter;
+}
+
+body{
+   font-family: 'Baloo Tamma', cursive;
+}
+
+div#memory_board{
+	background:#ccccff;
+	width:800px;
+	height:520px;
+>>>>>>> be76d93f5352378a0080618dacca4c4c39df914d
 	padding:24px;
 	margin:0px auto;
 }
@@ -26,7 +41,11 @@ div#memory_board > div{
 }
 
 div#title{
+<<<<<<< HEAD
   font-family:'Baloo Tamma', cursive;
+=======
+  font-family:font-family: 'Baloo Tamma', cursive;
+>>>>>>> be76d93f5352378a0080618dacca4c4c39df914d
   color:#000066;
   font-size:60px;
 }
