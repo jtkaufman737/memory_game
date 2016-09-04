@@ -43,3 +43,12 @@ div#title{
   color:#000066;
   font-size:60px;
 }
+
+a{
+  text-decoration:none;
+}
+
+a:hover{
+  text-transform:uppercase;
+  text-decoration:underline;
+}
