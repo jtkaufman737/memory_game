@@ -3,6 +3,10 @@ html{
   font-weight:lighter;
 }
 
+body{
+   font-family: 'Baloo Tamma', cursive;
+}
+
 div#memory_board{
 	background:#ccccff;
 	width:800px;
