@@ -1,12 +1,16 @@
 html{
-  font-family: 'Raleway',sans-serif;
+  font-family:font-family: 'Baloo Tamma', cursive;
   font-weight:lighter;
+}
+
+body{
+   font-family: 'Baloo Tamma', cursive;
 }
 
 div#memory_board{
 	background:#ccccff;
 	width:800px;
-	height:540px;
+	height:520px;
 	padding:24px;
 	margin:0px auto;
 }
@@ -26,7 +30,7 @@ div#memory_board > div{
 }
 
 div#title{
-  font-family: 'Raleway',sans-serif;
+  font-family:font-family: 'Baloo Tamma', cursive;
   color:#000066;
   font-size:60px;
 }
