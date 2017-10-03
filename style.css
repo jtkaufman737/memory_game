@@ -8,7 +8,7 @@ body{
 }
 
 div#memory_board{
-	background:#ccccff;
+	/*background:#ccccff;*/
 	width:800px;
 	height:520px;
 	padding:24px;
@@ -17,6 +17,7 @@ div#memory_board{
 
 div#memory_board > div{
 	background: url(tile_bg.jpg) no-repeat;
+  opacity:.5;
 	width:71px;
 	height:71px;
   border-radius:4%;
@@ -26,11 +27,15 @@ div#memory_board > div{
 	font-size:64px;
 	cursor:pointer;
 	text-align:center;
-  color:#000066;
+  color:gray;
+}
+
+.tile{
+  opacity:.5;
 }
 
 div#title{
   font-family:font-family: 'Baloo Tamma', cursive;
-  color:#000066;
+  color:gray;
   font-size:60px;
 }
