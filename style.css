@@ -4,7 +4,7 @@ html{
 }
 
 div#memory_board{
-	background:#ccccff;
+	/* background:#ccccff; */
 	width:800px;
 	height:540px;
   font-family:font-family: 'Baloo Tamma', cursive;
